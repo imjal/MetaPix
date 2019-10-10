@@ -1,0 +1,5 @@
+test_5_img/img_00000308.png
+test_5_img/img_00001842.png
+test_5_img/img_00003273.png
+test_5_img/img_00004804.png
+test_5_img/img_00006235.png

@@ -1,0 +1,5 @@
+test_3_label/label_00000101.png
+test_3_label/label_00001380.png
+test_3_label/label_00002659.png
+test_3_label/label_00003938.png
+test_3_label/label_00005217.png

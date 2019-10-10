@@ -1,0 +1,3 @@
+test_8_img/img_00000101.png
+test_8_img/img_00005373.png
+test_8_img/img_00010823.png

@@ -1,0 +1,10 @@
+test_2_img/img_00000184.png
+test_2_img/img_00000993.png
+test_2_img/img_00001802.png
+test_2_img/img_00002611.png
+test_2_img/img_00003420.png
+test_2_img/img_00004229.png
+test_2_img/img_00005038.png
+test_2_img/img_00005847.png
+test_2_img/img_00006674.png
+test_2_img/img_00007483.png

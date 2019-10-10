@@ -1,0 +1,10 @@
+test_6_label/label_00002033.png
+test_6_label/label_00002667.png
+test_6_label/label_00006237.png
+test_6_label/label_00004885.png
+test_6_label/label_00005442.png
+test_6_label/label_00001313.png
+test_6_label/label_00000427.png
+test_6_label/label_00003370.png
+test_6_label/label_00001927.png
+test_6_label/label_00004094.png

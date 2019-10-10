@@ -1,0 +1,21 @@
+Videos used for Pre-training (all Youtube IDs)
+1. wtW2R7hTImA
+2. soYDiE7sl4g
+3. mg6-SnUl0A0
+4. P3ggFO9vRoc
+5. IV0mEcRbxjU
+6. NBqb3mkmQ7Q
+7. 2rJvM52eOOc
+8. IsKS35ztV6A
+9. rVeBKW_64fk
+10. QtUwi604PFc
+
+Videos from Dance Dance Generation (arXiv'19), used for testing
+1. 9pyCI_intrQ
+2. CCrFDT65NFE
+3. LJbOrOK9W_M
+4. BkfDjRwBaaQ
+5. ujREEgxEP7g
+6. z1nO0stQkEU
+7. WabSbZp9dII
+8. nxR9DoyK6t8

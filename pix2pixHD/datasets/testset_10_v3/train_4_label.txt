@@ -1,0 +1,10 @@
+test_4_label/label_00000175.png
+test_4_label/label_00000672.png
+test_4_label/label_00001169.png
+test_4_label/label_00001666.png
+test_4_label/label_00002163.png
+test_4_label/label_00002660.png
+test_4_label/label_00003157.png
+test_4_label/label_00003654.png
+test_4_label/label_00004151.png
+test_4_label/label_00004648.png
