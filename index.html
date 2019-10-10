@@ -1,0 +1,171 @@
+<!-- Taken from url=http://www.cs.cmu.edu/~dfouhey/3DP/index.html -->
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans&display=swap" rel="stylesheet">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149418235-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-149418235-1');
+</script>
+
+<!-- bibliographic tags -->
+<meta name="citation_title" content="ActionVLAD: Learning spatio-temporal aggregation for action classification"/>
+<meta name="citation_author" content="Lee, Jessica"/>
+<meta name="citation_author" content="Ramanan, Deva"/>
+<meta name="citation_author" content="Girdhar, Rohit"/>
+<meta name="citation_publication_date" content="2019"/>
+<meta name="citation_journal_title" content=""/>
+<meta name="citation_pdf_url" content=""/>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="StyleSheet" href="assets/style.css" type="text/css" media="all">
+
+<title>MetaPix: Few-Shot Video Retargeting</title>
+</script>
+
+<!-- bibliographic tags -->
+<meta name="citation_title" content="MetaPix: Few-Shot Video Retargeting"/>
+<meta name="citation_author" content="Lee, Jessica"/>
+<meta name="citation_author" content="Girdhar, Rohit"/>
+<meta name="citation_author" content="Ramanan, Deva"/>
+<meta name="citation_pdf_url" content=""/>
+
+<style type="text/css">
+#primarycontent h3 {
+}
+#primarycontent teasertext {
+	text-align: center;
+}
+#primarycontent p {
+	text-align: center;
+}
+#primarycontent {
+	text-align: justify;
+}
+#primarycontent p {
+	text-align: justify;
+}
+#primarycontent p iframe {
+	text-align: center;
+}
+#avatar {
+  border-radius: 50%;
+}
+</style>
+<script type="text/javascript">
+  function togglevis(elid){
+    el=document.getElementById(elid);
+    aelid=elid+"a";
+    ael=document.getElementById(aelid);
+    if(el.style.display=='none'){
+      el.style.display='inline-table';
+      ael.innerHTML="[Hide BibTex]";
+    }else{
+      el.style.display='none';
+      ael.innerHTML="[Show BibTex]";
+    }
+  }
+</script>
+
+<link rel="icon" type="image/png" href="http://rohitgirdhar.github.io/favicon.png">
+
+</head>
+<body>
+<div id="primarycontent">
+<h1 align="center" itemprop="name"><strong>
+    MetaPix: Few-Shot Video Retargeting
+</strong></h1>
+
+
+   <table class="results" align="center">
+    <tr>
+      <td align="center">
+        <img style="float: left;" src="assets/TeaserFigure_empty.jpg" width="50%" /></a>
+        <img style ="float: left;" src="assets/output.gif" width="50%" /></a>
+      </td>
+    </tr>
+    <tr></tr>
+    <tr></tr>
+    <tr></tr>
+    <tr>
+      <td class="credits" align="justify">
+        We address the task of unsupervised retargeting of human actions from one video to another. We consider the challenging setting where only a few frames of the target is available.
+        The core of our approach is a conditional generative model that can transcode input skeletal poses (automatically extracted with an off-the-shelf pose estimator) to output target frames. 
+        However, it is challenging to build a universal transcoder because humans can appear wildly different due to clothing and background scene geometry. 
+        Instead, we learn to adapt -- or <b>personalize</b> -- a universal generator to the particular human and background in the target. 
+        To do so, we make use of meta-learning to discover effective strategies for on-the-fly personalization. One significant benefit of meta-learning is that the personalized
+        transcoder naturally enforces temporal coherence across not only its generated frames, but its initialization. All frames contain consistent clothing and background geometry of the target.
+        We experiment on in-the-wild internet videos and images and show our approach improves over widely-used baselines for the task. 
+    </td>
+    </tr>
+    <tr>
+    </tr>
+ </table>
+
+
+
+<h3>People</h3>
+
+<table id="people" style="margin:auto;">
+  <tr>
+    <td></td>  <!-- For some reason it scales up the first td.. so adding a dummy td -->
+    <td>
+        <img src="assets/authors/jessica.jpg"/><br/>
+        <a href="https://imjal.github.io/" target="_blank">Jessica Lee</a>
+      </td>
+    <td>
+      <img src="assets/authors/deva.jpg"/><br/>
+      <a href="https://www.cs.cmu.edu/~deva/" target="_blank">Deva Ramanan</a>
+    </td>
+    <td>
+      <img src="assets/authors/rohit.jpg"/><br/>
+      <a href="http://www.cs.cmu.edu/~rgirdhar/" target="_blank">Rohit Girdhar</a>
+    </td>
+  </tr>
+</table>
+
+
+<h3>Paper</h3>
+<table>
+  <tr></tr>
+  <tr><td>
+    <a href="https://arxiv.org/abs/1910.04742"><img style="box-shadow: 5px 5px 2px #888888; margin: 10px" src="assets/paper-screenshot.png" width="150px"/></a>
+  </td>
+  <td></td>
+  <td>
+     J. Lee, D. Ramanan, and R. Girdhar<br/>
+    <a href="https://arxiv.org/abs/1910.04742">MetaPix: Few-Shot Video Retargeting</a><br/>
+    MetaLearn Workshop, NeurIPS 2019  <!--[<a href="dummy_workshop">pdf</a>]<br/> -->
+    In Submission<br/>
+    [<a href="https://arxiv.org/abs/1910.04742">arXiv</a>]
+    [<a href="https://github.com/imjal/MetaPix">Code</a>]
+    [<a href="https://drive.google.com/file/d/1wY5n8GNdWzoiOrpB67A2Y_TIZ9ANiP2G/view?usp=sharing">Supplementary Video</a>] 
+    [<a href="javascript:togglevis('lee2019metapix')" id="bibtex">BibTex</a>]
+    </table>
+</table>
+
+
+
+<table class="bibtex" style="display:none" id="lee2019metapix"><tr><td>
+<pre>
+  @article{lee2019metapix,
+    title={{MetaPix: Few-Shot Video Retargeting}},
+    author={Lee, Jessica and Ramanan, Deva and Girdhar, Rohit},
+    journal={arXiv preprint arXiv:1910.04742},
+    year={2019}
+   }
+</pre>
+</td></tr></table>
+
+<h3>Acknowledgements</h3>
+<p>This research is based upon work supported in part by NSF Grant 1618903, the Intel Science and Technology Center for Visual Cloud Systems (ISTC-VCS), and Google.</p>
+</div>
+
+</body></html>
+
