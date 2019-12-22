@@ -1,14 +1,14 @@
 # [MetaPix: Few-Shot Video Retargeting](https://imjal.github.io/MetaPix/)
 
 If this code helps with your work/research, please consider citing
-Jessica Lee, Deva Ramanan and Rohit Girdhar. MetaPix: Few-Shot Video Retargeting. arXiv preprint arXiv:1910.04742, 2019.
+Jessica Lee, Deva Ramanan and Rohit Girdhar. MetaPix: Few-Shot Video Retargeting. International Conference on Learning Representations (ICLR), 2020.
 
 ```bibtex
 @article{lee2019metapix,
     title={{MetaPix: Few-Shot Video Retargeting}},
     author={Lee, Jessica and Ramanan, Deva and Girdhar, Rohit},
-    journal={arXiv preprint arXiv:1910.04742},
-    year={2019}
+    journal={ICLR},
+    year={2020}
 }
 ```
 
